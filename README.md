@@ -17,7 +17,7 @@
 
 - **P2P Chat Web** — одноранговый чат с end‑to‑end шифрованием на WebSocket и WebRTC. Разворачиваю и поддерживаю сервис на собственном сервере (Python + JS). [Смотреть проект](https://vladimirshangin2907-p2p-chat-e275.twc1.net)
 
-- **Personal CV Site** — персональный сайт‑портфолио на Django/Flask. [Открыть сайт]([(https://vladimirshangin2907-pesonal-site-d777.twc1.net/)
+- **Personal CV Site** — персональный сайт‑портфолио на Django/Flask. [Открыть сайт](https://vladimirshangin2907-pesonal-site-d777.twc1.net/)
 
 - **Project Grateful Bot** — рефакторинг Telegram‑бота, перенос на n8n, интеграция с MongoDB.
 
