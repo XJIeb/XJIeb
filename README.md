@@ -12,7 +12,7 @@ Coding...
 
 ## 🛠 Проекты
 
-- **P2P Chat Web** — одноранговый чат с end‑to‑end шифрованием на WebSocket и WebRTC. Разворачиваю и поддерживаю сервис на собственном сервере (Python + JS). [Смотреть проект]((https://p01--p2pchat--hjlzr4pmpnfl.code.run/))
+- **P2P Chat Web** — одноранговый чат с end‑to‑end шифрованием на WebSocket и WebRTC. Разворачиваю и поддерживаю сервис на собственном сервере (Python + JS). [Смотреть проект](https://p01--p2pchat--hjlzr4pmpnfl.code.run/)
 
 - **Personal CV Site** — персональный сайт‑портфолио на Django/Flask. [Открыть сайт]((https://vladimirshangin2907-pesonal-site-d777.twc1.net/#top))
 
