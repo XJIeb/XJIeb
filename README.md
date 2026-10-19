@@ -34,8 +34,8 @@ Coding...
 | L | I | N | U | X | G |
 | M | O | N | G | O | D |
 
-**Ищем:** `PYTHON`, `DOCKER`, `JIRA`, `LINUX`, `MONGO`.  
-Проверяйте ответы сами или напишите мне, если найдёте все слова :)
+ `PYTHON`, `DOCKER`, `JIRA`, `LINUX`, `MONGO`.  
+
 
 ---
 
