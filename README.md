@@ -16,6 +16,8 @@ Coding...
 
 - **Personal CV Site** — персональный сайт‑портфолио на Django/Flask. [Открыть сайт](https://vladimirshangin2907-pesonal-site-d777.twc1.net/#top)
 
+- **Tehno Yablonya** — полноценный онлайн магазин с отправкой заявок в CRM + редактируемой админкой Django/JS [Открыть сайт](https://technoya.store). 
+
 - **Project Grateful Bot** — рефакторинг Telegram‑бота, перенос на n8n, интеграция с MongoDB.
 
 ---
