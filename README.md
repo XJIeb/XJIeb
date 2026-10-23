@@ -46,4 +46,7 @@ Telegram: [@vldmrest](https://t.me/vldmrest) • Email: vladimirshangin2907@gmai
 
 ## 🎯 Лично обо мне
 
-**B**elieve in technology **B**elieve in crypto **C**omputers are cool ? BBC ?
+**B**elieve in technology 
+**B**elieve in crypto 
+**C**omputers are cool 
+? BBC ?
