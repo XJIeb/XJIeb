@@ -7,6 +7,7 @@ full stack [{(dev / analytic) / AI Enjoyer} / Gamer]
 ## 🚀 Что я делаю сейчас
 
 Coding... 
+https://bredi.warmclove8.chatgpt.site/ this is cozy 
 
 ---
 
