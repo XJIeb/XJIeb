@@ -122,4 +122,4 @@
 
 ---
 
-<div align="center"><sub>Сделано Владимиром Шаньгиным</sub></div>
+<div align="center"><sub>Сделано с <3 </sub></div>
