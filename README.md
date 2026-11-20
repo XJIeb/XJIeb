@@ -14,7 +14,7 @@
 
 ---
 
-## 🐰 Bredi — мой главный проект
+## 🐰 Bredi — мой главный проект 
 
 <p align="center">
   <a href="https://bredi.online">
@@ -33,11 +33,11 @@
 
 > Придумал, разработал и нарисовал с нуля - сам.
 
-- 🐾 **Забота без наказания** — если о питомце забыть, он не умирает, а уходит в приют
+- 🐾 **Забота без наказания** — если о питомце забыть, он уходит в приют
 - 🎁 **5 коллекций по 13 Попсов** — Мармеладный сад, Неоновый подиум, Динопарк, Кошачий квартал, Собачий двор; у каждого экземпляра своя ДНК
 - 🌍 **Планета приютов** — игроки предлагают приюты со всего мира и голосуют за них
 - 🌐 русский и английский
-- ⚙️ Node.js 22 без внешних npm-зависимостей · SQLite · Docker · Caddy · свой контент-движок на Playwright + ffmpeg
+- ⚙️ Node.js 22
 
 Бот: [@appBredi_bot](https://t.me/appBredi_bot) · YouTube: [@bredi.online](https://www.youtube.com/@bredi.online) · TikTok: [@bredi.online](https://www.tiktok.com/@bredi.online)
 
@@ -78,7 +78,7 @@
 
 ---
 
-## 🧰 Стек
+## Стек
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,django,flask,js,nodejs,docker,linux,mongodb,sqlite,git&perline=10" alt="Python, Django, Flask, JavaScript, Node.js, Docker, Linux, MongoDB, SQLite, Git">
@@ -86,7 +86,7 @@
 
 ---
 
-## 🧩 Мини-игра
+## Мини-игра
 
 Найди в сетке слова из моего стека 👇
 
