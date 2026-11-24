@@ -63,14 +63,25 @@
 <tr>
 <td width="50%" valign="top">
 
-🪪 **[Personal CV Site](https://vladimirshangin2907-pesonal-site-d777.twc1.net/#top)**<br>
-Сайт-портфолио на Django / Flask.
+🍊 **[AppleTon](https://apple-ton.com)**<br>
+Второй магазин на том же движке, что Техно Яблоня: свой бренд, палитра и реквизиты переключаются одной настройкой. Django + Docker.
 
 </td>
 <td width="50%" valign="top">
 
+🪪 **[Personal CV Site](https://vladimirshangin2907-pesonal-site-d777.twc1.net/#top)**<br>
+Сайт-портфолио на Django / Flask.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 🤖 **Project Grateful Bot**<br>
 Рефакторинг Telegram-бота: перенос на n8n, интеграция с MongoDB.
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
