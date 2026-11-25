@@ -92,7 +92,7 @@
 ## Стек
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,flask,js,nodejs,docker,linux,mongodb,sqlite,git&perline=10" alt="Python, Django, Flask, JavaScript, Node.js, Docker, Linux, MongoDB, SQLite, Git">
+  <img src="https://skillicons.dev/icons?i=py,django,flask,js,nodejs,bun,docker,linux,raspberrypi,postgres,mongodb,sqlite,git&perline=13" alt="Python, Django, Flask, JavaScript, Node.js, Bun, Docker, Linux, Raspberry Pi, PostgreSQL, MongoDB, SQLite, Git">
 </p>
 
 ---
